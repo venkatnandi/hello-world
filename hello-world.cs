@@ -1,4 +1,3 @@
-// Hello, world! program
 using System;
 
 class helloworld
